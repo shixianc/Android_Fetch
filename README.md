@@ -8,6 +8,6 @@ An Android application to fetch data from an URL and automatically process and d
 
 
 ## The results will be displayed as results list. 
-# note: null and empty values are cleaned and data is grouped and sorted according to JSON keys.
+#### note: null and empty values are cleaned and data is grouped and sorted according to JSON keys.
 <img src="https://github.com/shixianc/Android_Fetch/blob/master/screenshots/Screen%20Shot%202020-09-28%20at%208.12.01%20PM.png" width="500">
 
